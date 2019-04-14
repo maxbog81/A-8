@@ -16,7 +16,6 @@ namespace lesson8
     class Program
     {
         static int quickCount = 0;
-        static int MergeCount = 0;
         //Создание массива
         static int[] MyArray(int n, int min, int max)
         {
